@@ -5,8 +5,7 @@ Nesse projeto eu clono o site base da Netflix, remodelando para o Docflix, um si
 Nesse site foi usado FlexBox e Jquery para criar um layout de rolagem de posters e tornar o site responsivo!
 
 Abra por o site por aqui:
-https://app.netlify.com/sites/keen-borg-b8d151/deploys
-
+https://keen-borg-b8d151.netlify.app
 
 
 Espero que gostem! 
