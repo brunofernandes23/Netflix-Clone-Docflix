@@ -1,13 +1,13 @@
-Olá, aqui é o Bruno Fernandes!
+Hi, this is Bruno Fernandes!
 
-Nesse projeto eu clono o site base da Netflix, remodelando para o Docflix, um site onde se fala sobre a série de TV mundialmente conhecida, Doctor Who!
+In this project I clone Netflix's base site, remodeling it to Docflix, a site that talks about the world-famous TV series Doctor Who!
 
-Nesse site foi usado FlexBox e Jquery para criar um layout de rolagem de posters e tornar o site responsivo!
+On this site we used FlexBox and Jquery to create a scrolling poster layout and make the site responsive!
 
-Abra por o site por aqui:
+Open the site here:
 https://keen-borg-b8d151.netlify.app
 
 
-Espero que gostem! 
+Hope you like it! 
 
 Code is life! xD
